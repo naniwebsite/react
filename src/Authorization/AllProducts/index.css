@@ -1,0 +1,20 @@
+
+.all-products-container{
+    padding-top: 50px;
+}
+@media screen and (min-width:768px){
+    .all-products-container{
+       display: flex;
+       gap: 30px;
+    }
+}
+.product-list{
+    padding-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.loading{
+    text-align: center;
+}

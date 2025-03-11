@@ -1,0 +1,17 @@
+.register-prime-image {
+    width: 100%;
+      }
+    .prime-heading{
+        color: #475569;
+        font-weight: 500;
+    }
+    .prime-deals-list{
+        padding-left: 0px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+.loading-view{
+    text-align: center;
+}
